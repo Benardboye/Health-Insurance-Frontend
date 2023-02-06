@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const baseUrl = "http://localhost:8080"
+const baseUrl = "http://localhost:8080" | "https://health-insurance-1.onrender.com"
 const token = localStorage.getItem('signature')
 
 

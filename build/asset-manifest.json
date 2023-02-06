@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f75a91b.css",
+    "main.js": "/static/js/main.69ec6089.js",
+    "static/media/payment_pic.png": "/static/media/payment_pic.7836046063f97c4a2da7.png",
+    "static/media/image-intro-mobile.jpg": "/static/media/image-intro-mobile.8b8c3185ce1388b2bb9e.jpg",
+    "static/media/health.jpeg": "/static/media/health.95c625c11d7e80e479e7.jpeg",
+    "static/media/MktgIcon_Logo3.png": "/static/media/MktgIcon_Logo3.401860e4b393ce3082cd.png",
+    "static/media/MktgIcon_Logo2.png": "/static/media/MktgIcon_Logo2.4c8b1756215e3293fdf4.png",
+    "static/media/logo.svg": "/static/media/logo.b84080a147fc2d2276186c0349edfeec.svg",
+    "static/media/bg-pattern-how-we-work-desktop.svg": "/static/media/bg-pattern-how-we-work-desktop.eb268c33d9921cd960db6b6ffa65c644.svg",
+    "static/media/bg-pattern-intro-left-desktop.svg": "/static/media/bg-pattern-intro-left-desktop.3a425b38f5531b055de49ec32822cf8c.svg",
+    "static/media/bg-pattern-intro-right-desktop.svg": "/static/media/bg-pattern-intro-right-desktop.0c130b3f008bf9eb1d1b204d6bdd53e0.svg",
+    "static/media/bg-pattern-footer-desktop.svg": "/static/media/bg-pattern-footer-desktop.700c39ea607592bfacaf790991a07f0b.svg",
+    "static/media/bg-pattern-footer-mobile.svg": "/static/media/bg-pattern-footer-mobile.9f048cf0d8710a041f70534fbc93ed7a.svg",
+    "static/media/bg-pattern-how-we-work-mobile.svg": "/static/media/bg-pattern-how-we-work-mobile.96cd9d0635dc0b4420227ebc8668096d.svg",
+    "static/media/bg-pattern-intro-left-mobile.svg": "/static/media/bg-pattern-intro-left-mobile.111709ef92e6f76465a94048f9c12fad.svg",
+    "static/media/bg-pattern-intro-right-mobile.svg": "/static/media/bg-pattern-intro-right-mobile.0354e57129409ea983cd642c14acfb82.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.46cfe17c3109f3bd2460963bc5beb553.svg",
+    "index.html": "/index.html",
+    "static/media/icon-pinterest.svg": "/static/media/icon-pinterest.5b02655f8f80d07884a7ed52397ff073.svg",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.5e850eb31e4bad3bc4bf26b14b0cdd7f.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.4333c44571bee8e7f461b2fdaed6a6c0.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.d550a648e0286cb7dddf1b1c8fc23d17.svg",
+    "main.1f75a91b.css.map": "/static/css/main.1f75a91b.css.map",
+    "main.69ec6089.js.map": "/static/js/main.69ec6089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f75a91b.css",
+    "static/js/main.69ec6089.js"
+  ]
+}
